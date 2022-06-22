@@ -49,18 +49,11 @@
 
 .header__link {
   text-decoration: none;
-}
-
-.header__link:link {
-  color: #2f80ed;
-}
-
-.header__link:visited {
   color: #2f80ed;
 }
 
 .header__link:hover {
-  color: #2f80ed;
+  opacity: 0.5;
 }
 
 .header__main-illustration {
@@ -221,18 +214,11 @@
   position: absolute;
   top: 50%;
   right: 48px;
-}
-
-.feynman__link:link {
-  color: #2f80ed;
-}
-
-.feynman__link:visited {
   color: #2f80ed;
 }
 
 .feynman__link:hover {
-  color: #2f80ed;
+  opacity: 0.5;
 }
 
 .kaufman {
@@ -375,16 +361,9 @@
   line-height: 30px;
   font-size: 18px;
   align-items: center;
-}
-
-.footer__column-link:link {
-  color: #2f80ed;
-}
-
-.footer__column-link:visited {
-  color: #2f80ed;
+  color: #fff;
 }
 
 .footer__column-link:hover {
-  color: #2f80ed;
+  opacity: 0.5;
 }
