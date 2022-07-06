@@ -1,9 +1,6 @@
 .video {
-    min-height: 440px;
     display: flex;
     flex-direction: column;
     align-items: center;
     padding-top: 100px;
-    position: relative;
-    z-index: 0;
 }
